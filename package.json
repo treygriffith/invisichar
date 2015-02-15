@@ -1,0 +1,15 @@
+{
+  "name": "invisichar",
+  "version": "0.0.1",
+  "description": "Convert to and from invisible characters",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee -c index.coffee"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "coffee-script": "1.9.x"
+  }
+}
